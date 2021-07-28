@@ -10,6 +10,7 @@
 ## Tools
 ** Ferramentas, foram criadas para resolver certo tipo de problema, você não precisa aprender todas elas, só conhecer os fundamentos para quando for necessario  trabalhar com elas. Porém existe ferramentas que vamos utilizar muito no dia-a-dia, essa ferramentas vão ter um emoji de foguete do lado! 
 
+- [Git](./git/Readme.md)
 - [React](https://pt-br.reactjs.org/docs/getting-started.html) :rocket:
 - [Typescript](https://www.typescriptlang.org/docs/) :rocket:
 - [Material UI](https://material-ui.com/pt/)
@@ -34,6 +35,7 @@
 
 - Javascript 
 - [Ethereum Foundation](https://ethereum.org/en/developers/)
+- [Create ETH APP](https://github.com/paulrberg/create-eth-app)
 
 
 ## HOW
